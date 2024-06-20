@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /markdown-examples
+      link: /GettingStarted/introduction
     - theme: alt
       text: View Scans
-      link: /api-examples
+      link: /GettingStarted/introduction
 
 features:
   - title: Feature A
