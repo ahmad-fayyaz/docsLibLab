@@ -23,13 +23,12 @@ Welcome to the VitePress documentation guide! Follow the steps below to add new 
 
 1.  **Clone the Repository**
     
-    First, clone the repository to your local machine if you haven't already:
+First, clone the repository to your local machine if you haven't already:
 
-''''
-    git clone https://github.com/your-username/your-repo.git
-''''
+```
+git clone https://github.com/your-username/your-repo.git
+```
 
-''''
-    cd your-repo
-''''
-    
+```
+cd your-repo
+```    
