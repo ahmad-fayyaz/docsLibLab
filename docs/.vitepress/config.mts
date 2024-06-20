@@ -27,12 +27,24 @@ export default defineConfig({
         items: [
           { text: 'Accessing Equipment', link: '/GettingStarted/getting-started' }
         ]
+      },
+
+      {
+        text: 'Resources',
+        items: [
+          {
+            text: 'Spatial.io',
+            link: '/Resources/Spatial-io/spatial-io',
+            items: [ { text: 'Quick Start', link: '/Resources/Spatial-io/tutorial' } ]
+          }
+        ] 
       }
+
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ahmad-fayyaz/docsLibLab' }
     ]
-  }
+  },
 })
 
