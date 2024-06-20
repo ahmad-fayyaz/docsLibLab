@@ -65,7 +65,7 @@ To learn more about markdown, [click this link.](https://www.markdownguide.org)
 To make your new guide accessible via the sidebar, update the sidebar configuration in the  `docs/.vitepress/config.mts`file. You will see all the headings neatly organized. Simply add:
 
 ```
-{  text:  'New Guide',  link:  '/path/to/the/file'  
+{  text:  'New Guide',  link:  '/path/to/the/file'  }
 ```
 
 under the heading you want it to be. 
