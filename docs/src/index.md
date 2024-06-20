@@ -3,15 +3,14 @@
 layout: home
 
 hero:
-  name: "LibLab"
-  text: "LibLab Documentation"
-  tagline: My great project tagline
+  name: "LibLab's"
+  text: "Official Documentation Website"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: View Scans
       link: /api-examples
 
 features:

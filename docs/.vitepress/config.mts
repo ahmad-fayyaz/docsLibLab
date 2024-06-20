@@ -2,27 +2,37 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "LibLab",
+  srcDir: './src',
+  title: "LibLab.Docs",
   description: "LibLab Documentation",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Get Started', link: '/GettingStarted/introduction' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Overview',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Introduction', link: '/GettingStarted/introduction' },
+          { text: 'Apps and Equipment', link: '/GettingStarted/equipment' },
+          { text: 'Course Usage', link: '/GettingStarted/course-usage' },
+        ]
+      },
+
+      {
+        text: 'Getting Started',
+        items: [
+          { text: 'Accessing Equipment', link: '/GettingStarted/getting-started' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ahmad-fayyaz/docsLibLab' }
     ]
   }
 })
+
