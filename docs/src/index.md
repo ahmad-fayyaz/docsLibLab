@@ -14,11 +14,11 @@ hero:
       link: /GettingStarted/introduction
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Accessible for Everyone
+    details: This documentation has been written keeping the accessibility rules in mind.
+  - title: Written in Markdown
+    details: Efficient, low resource usage.
+  - title: Constantly Updated
+    details: Up-to-Date latest documentation.
 ---
 
