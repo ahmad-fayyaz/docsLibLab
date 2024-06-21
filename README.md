@@ -1,23 +1,12 @@
-## Adding Documentation to the VitePress Website
+## Adding Documentation to the Docs Website
 
 Welcome to the LibLab's documentation website's guide! Follow the steps below to add new documentation to our website, edit existing documentation or remove documentation.
 
 ### Prerequisites
 
--   Access to the GitHub repository of the VitePress project.
+-   Access to the GitHub repository of the website.
 -   Knowledge of Markdown syntax.
 -   Knoweldge of accessibility practices used in writing documentation.
-
-
-## Adding Documentation to the VitePress Website
-
-Welcome to the VitePress documentation guide! Follow the steps below to add new documentation to our website.
-
-### Prerequisites
-
--   Access to the GitHub repository of the VitePress project.
--   Knowledge of Markdown syntax.
--   Basic understanding of VitePress structure.
 
 ### Steps to Add New Documentation
 
