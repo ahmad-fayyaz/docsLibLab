@@ -33,6 +33,7 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
+          { text: 'Linkedin Learning', link: '/Resources/LinkedinLearning/linkedinLearning' },
           { text: 'SketchFab', link: '/Resources/SketchFab/sketchfab' },
           {
             text: 'Spatial.io',
