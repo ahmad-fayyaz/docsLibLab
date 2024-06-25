@@ -1,8 +1,8 @@
-**LinkedIn Learning at Swarthmore College**
+# LinkedIn Learning at Swarthmore College
 
   
 
-**Overview**
+## Overview
 
   
 
@@ -32,7 +32,7 @@ LinkedIn Learning is an online educational platform that offers a wide range of 
 
   
 
-**For Students**
+## For Students
 
   
 
@@ -44,7 +44,7 @@ LinkedIn Learning is an online educational platform that offers a wide range of 
 
   
 
-**For Faculty**
+## For Faculty
 
   
 
@@ -56,7 +56,7 @@ LinkedIn Learning is an online educational platform that offers a wide range of 
 
   
 
-**For Staff**
+## For Staff
 
   
 
@@ -68,7 +68,7 @@ LinkedIn Learning is an online educational platform that offers a wide range of 
 
   
 
-**Features of LinkedIn Learning**
+## Features of LinkedIn Learning
 
   
 
@@ -89,13 +89,12 @@ If you encounter any issues or have questions about accessing LinkedIn Learning,
   
 
 •  **Helpdesk Portal**: https://support.swarthmore.edu/support/home
-•  **Location**: Beardsley Hall, Room 110
 :::
 
 
   
 
-**Conclusion**
+## Conclusion
 
   
 
